@@ -1,6 +1,6 @@
 # Badru (Barry) Siddique
 
-Engineering Manager at **Hudl** — leading 16 engineers across two squads in Mumbai, building a global sports library used by 200,000+ teams including NFL, NBA, and NCAA.
+Engineering Manager at **Hudl** - leading 16 engineers across two squads in Mumbai, building a global sports library used by 200,000+ teams including NFL, NBA, and NCAA.
 
 12+ years of full-stack engineering before moving into leadership. Deep background in .NET, MERN, and cloud architecture. Still hands-on. Still ship code.
 
@@ -10,7 +10,7 @@ Engineering Manager at **Hudl** — leading 16 engineers across two squads in Mu
 
 ## What I do
 
-At Hudl I run two squads — Pluto and Jupiter — responsible for content ingestion pipelines, analyst tooling, and a MongoDB-to-DocumentDB migration at petabyte scale. Before that, Staff/Lead Engineer at RBC Global Asset Management (Vancouver), where I led cloud migration for a $600B+ asset management platform and managed a team of 12+ engineers.
+At Hudl I run two squads - Pluto and Jupiter - responsible for content ingestion pipelines, analyst tooling, and a MongoDB-to-DocumentDB migration at petabyte scale. Before that, Staff/Lead Engineer at RBC Global Asset Management (Vancouver), where I led cloud migration for a $600B+ asset management platform and managed a team of 12+ engineers.
 
 I care about clean architecture, observable systems, and engineering teams that actually enjoy their work.
 
@@ -20,7 +20,7 @@ I care about clean architecture, observable systems, and engineering teams that 
 
 I write practical, no-fluff content for senior engineers and engineering managers.
 
-**Koffee aur Claude Code** — a series on using Claude Code the way it's actually meant to be used:
+**Koffee aur Claude Code** - a series on using Claude Code the way it's actually meant to be used:
 
 | | Title |
 |--|-------|
@@ -31,12 +31,12 @@ I write practical, no-fluff content for senior engineers and engineering manager
 | Part 5 | [MCP Servers and External Services](https://medium.com/@badru-siddique) |
 
 **System Design**
-- [What a Taco Shop Taught Me About System Design](https://medium.com/@badru-siddique) — 30 concepts, one taco shop, zero jargon
+- [What a Taco Shop Taught Me About System Design](https://medium.com/@badru-siddique) - 30 concepts, one taco shop, zero jargon
 
 **AI & LLMs**
 - [Building an Assistant with GPT: From Theory to Practice](https://medium.com/@badru-siddique)
 - [Mastering Prompt Engineering: A Developer's Guide](https://medium.com/@badru-siddique)
-- Building LangChain Applications — [Part I](https://medium.com/@badru-siddique) · [Part II](https://medium.com/@badru-siddique) · [Part III](https://medium.com/@badru-siddique)
+- Building LangChain Applications - [Part I](https://medium.com/@badru-siddique) · [Part II](https://medium.com/@badru-siddique) · [Part III](https://medium.com/@badru-siddique)
 
 ---
 
@@ -82,7 +82,7 @@ I write practical, no-fluff content for senior engineers and engineering manager
 | [mock-api-hub](https://github.com/badrusiddique/mock-api-hub) | Open-source mock API for cricket, sports, and general dev use | JavaScript |
 | [wa-service-template](https://github.com/badrusiddique/wa-service-template) | Production-ready .NET service template | C#, .NET Core |
 | [webapi-clean-architecture](https://github.com/badrusiddique/webapi-clean-architecture) | Clean architecture boilerplate for .NET Web APIs | C# |
-| [py-you-learn-langchain](https://github.com/badrusiddique/py-you-learn-langchain) | Hands-on LangChain — from basics to RAG | Python |
+| [py-you-learn-langchain](https://github.com/badrusiddique/py-you-learn-langchain) | Hands-on LangChain - from basics to RAG | Python |
 | [n8n-workflows](https://github.com/badrusiddique/n8n-workflows) | Automation workflows I've built and actually use at work | n8n |
 
 ---
@@ -90,24 +90,24 @@ I write practical, no-fluff content for senior engineers and engineering manager
 ## Experience
 
 ```
-2024 – present   Engineering Manager          Hudl, Mumbai
+2024 - present   Engineering Manager          Hudl, Mumbai
                  16 engineers, 2 squads, sports video platform (NFL/NBA/NCAA)
 
-2022 – 2024      Staff / Lead Engineer         RBC Global Asset Management, Vancouver
+2022 - 2024      Staff / Lead Engineer         RBC Global Asset Management, Vancouver
                  $600B+ AUM platform, cloud migration, team of 12+
 
-2023 – 2024      Head of Engineering           Third Bridge Group, Mumbai (contract)
+2023 - 2024      Head of Engineering           Third Bridge Group, Mumbai (contract)
                  Built India engineering division from scratch, team of 24
 
 2023             Senior Staff Engineer         Wati.io, Hong Kong (contract)
                  Multi-tenant SaaS for WhatsApp Business, 8,000+ businesses
 
-2020 – 2022      Senior Software Developer     RBC Global Asset Management, Vancouver
+2020 - 2022      Senior Software Developer     RBC Global Asset Management, Vancouver
                  25+ apps migrated to Azure, microservices modernisation
 
-2018 – 2020      Software Developer            LGM Financial Services, Vancouver
-2016 – 2018      Software Developer            Progressa, Vancouver
-2012 – 2015      Software Engineer             GE Oil & Gas / Baker Hughes, Mumbai
+2018 - 2020      Software Developer            LGM Financial Services, Vancouver
+2016 - 2018      Software Developer            Progressa, Vancouver
+2012 - 2015      Software Engineer             GE Oil & Gas / Baker Hughes, Mumbai
 ```
 
 ---
