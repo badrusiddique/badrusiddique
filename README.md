@@ -118,6 +118,3 @@ I write practical, no-fluff content for senior engineers and engineering manager
 - Software Architecture: From Developer to Architect
 - AWS Solutions Architect (in progress)
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=badrusiddique&show_icons=true&theme=default&hide_border=true&count_private=true)
