@@ -4,7 +4,7 @@ Engineering Manager at **Hudl** - leading 16 engineers across two squads in Mumb
 
 12+ years of full-stack engineering before moving into leadership. Deep background in .NET, MERN, and cloud architecture. Still hands-on. Still ship code.
 
-📍 Mumbai, India &nbsp;|&nbsp; [Portfolio](https://badru-siddique-h9dpvb3.gamma.site/) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/badru-siddique) &nbsp;|&nbsp; [Medium](https://medium.com/@badru-siddique)
+📍 Vancouver, Canada &nbsp;|&nbsp; [Portfolio](https://badru-siddique-h9dpvb3.gamma.site/) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/badru-siddique) &nbsp;|&nbsp; [Medium](https://medium.com/@badru-siddique)
 
 ---
 
