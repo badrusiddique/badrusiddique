@@ -1,8 +1,8 @@
 # Badru Siddique
 
-Engineering Manager at **Hudl** — leading 16 engineers across two squads in Mumbai, building a global sports library used by 200,000+ teams including NFL, NBA, and NCAA.
+Engineering Manager at **Hudl**, leading 16 engineers across two squads in Mumbai. Building a global sports platform for 200,000+ teams including NFL, NBA, and NCAA.
 
-12+ years of full-stack engineering before moving into leadership. Deep background in .NET, MERN, and cloud architecture. Still hands-on. Still ship code.
+12+ years as a full-stack engineer. Deep background in .NET, MERN, and cloud architecture. Still hands-on, still shipping code.
 
 📍 Vancouver, Canada &nbsp;|&nbsp; [Portfolio](https://badru-siddique-h9dpvb3.gamma.site/) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/badru-siddique) &nbsp;|&nbsp; [Medium](https://medium.com/@badru-siddique)
 
@@ -10,11 +10,11 @@ Engineering Manager at **Hudl** — leading 16 engineers across two squads in Mu
 
 ## What I do
 
-At Hudl I run two squads — Pluto and Jupyter — responsible for content ingestion pipelines, analyst tooling, operator queue systems, and a MongoDB-to-DocumentDB migration at petabyte scale. I also shipped the InStat Ice Hockey Queue integration into Assist (live June 2026) and am leading the AmFb matching cost reduction initiative targeting $300K+ in operational savings per season.
+At Hudl I run Pluto and Jupyter squads, building content ingestion pipelines, analyst tooling, and operator queue systems. Recently shipped the InStat Ice Hockey Queue integration into Assist (live June 2026) and leading the AmFb matching initiative with projected $300K+ annual savings.
 
-Before that, Staff/Lead Engineer at RBC Global Asset Management (Vancouver), where I led cloud migration for a $600B+ asset management platform — joined as first hire on the mandate and scaled into 4 delivery squads.
+Previously at RBC Global Asset Management (Vancouver), where I led cloud migration for a $600B+ AUM platform. Started as the first hire on the cloud mandate and built it into 4 delivery squads.
 
-I care about clean architecture, observable systems, and engineering teams that actually enjoy their work.
+I believe in clean architecture, observable systems, and engineering teams that actually want to show up.
 
 ---
 
@@ -22,14 +22,15 @@ I care about clean architecture, observable systems, and engineering teams that 
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| [enggenie](https://github.com/badrusiddique/enggenie-skill) | Multi-agent SDLC skill-suite for coding agents — refine, design, plan, build, review, QA, ship | Claude Code, Cursor, Copilot |
-| [morning-coffee](https://github.com/badrusiddique/morning-coffee) | AI engineering manager dashboard — auto-generates daily team health from Jira and GitHub | LLM, Jira API, GitHub API |
-| [tinyhands](https://github.com/badrusiddique/tinyhands) | Fullscreen keyboard smash toy built for my son Ayaan | Next.js, TypeScript, Canvas API |
-| [mock-api-hub](https://github.com/badrusiddique/mock-api-hub) | Open-source mock API for cricket, sports, and general dev use | JavaScript |
+| [enggenie](https://github.com/badrusiddique/enggenie-skill) | Multi-agent SDLC skill suite for coding agents: refine, design, plan, build, review, QA, ship | Claude Code, Cursor, Copilot |
+| [morning-coffee](https://github.com/badrusiddique/morning-coffee) | AI dashboard that auto-generates daily team health from Jira and GitHub | LLM, Jira API, GitHub API |
+| [rag-semantic-search-dotnet](https://github.com/badrusiddique/rag-semantic-search-dotnet) | Production-grade RAG system with PostgreSQL pgvector, Ollama embeddings, and LLM integration | C#, .NET 10, PostgreSQL |
+| [tinyhands](https://github.com/badrusiddique/tinyhands) | Fullscreen keyboard smash toy for my son Ayaan | Next.js, TypeScript, Canvas API |
+| [mock-api-hub](https://github.com/badrusiddique/mock-api-hub) | Open mock API for cricket, sports, and general dev use | JavaScript |
 | [wa-service-template](https://github.com/badrusiddique/wa-service-template) | Production-ready .NET service template | C#, .NET Core |
-| [webapi-clean-architecture](https://github.com/badrusiddique/webapi-clean-architecture) | Clean architecture boilerplate for .NET Web APIs | C# |
-| [py-you-learn-langchain](https://github.com/badrusiddique/py-you-learn-langchain) | Hands-on LangChain — from basics to RAG pipelines | Python |
-| [n8n-workflows](https://github.com/badrusiddique/n8n-workflows) | Agentic content generation pipeline and automation workflows | n8n, Gemini, FFmpeg |
+| [webapi-clean-architecture](https://github.com/badrusiddique/webapi-clean-architecture) | Clean architecture reference for .NET Web APIs | C# |
+| [py-you-learn-langchain](https://github.com/badrusiddique/py-you-learn-langchain) | Hands-on LangChain from basics through RAG pipelines | Python |
+| [n8n-workflows](https://github.com/badrusiddique/n8n-workflows) | Agentic workflows for content generation and automation | n8n, Gemini, FFmpeg |
 
 ---
 
@@ -37,7 +38,7 @@ I care about clean architecture, observable systems, and engineering teams that 
 
 I write practical, no-fluff content for senior engineers and engineering managers.
 
-**Koffee aur Claude Code** — a series on using Claude Code the way it is actually meant to be used:
+**Koffee aur Claude Code** series on using Claude Code the way it's meant to be used:
 
 | | Title |
 |--|-------|
@@ -48,12 +49,12 @@ I write practical, no-fluff content for senior engineers and engineering manager
 | Part 5 | [MCP Servers and External Services](https://medium.com/@badru-siddique) |
 
 **System Design**
-- [What a Taco Shop Taught Me About System Design](https://medium.com/@badru-siddique) — 30 concepts, one taco shop, zero jargon
+- [What a Taco Shop Taught Me About System Design](https://medium.com/@badru-siddique): 30 concepts, one taco shop, zero jargon
 
 **AI & LLMs**
 - [Building an Assistant with GPT: From Theory to Practice](https://medium.com/@badru-siddique)
 - [Mastering Prompt Engineering: A Developer's Guide](https://medium.com/@badru-siddique)
-- Building LangChain Applications — [Part I](https://medium.com/@badru-siddique) · [Part II](https://medium.com/@badru-siddique) · [Part III](https://medium.com/@badru-siddique)
+- Building LangChain Applications: [Part I](https://medium.com/@badru-siddique) · [Part II](https://medium.com/@badru-siddique) · [Part III](https://medium.com/@badru-siddique)
 
 ---
 
@@ -98,25 +99,25 @@ I write practical, no-fluff content for senior engineers and engineering manager
 ## Experience
 
 ```
-2024 - present   Engineering Manager          Hudl, Mumbai (Remote - Vancouver)
-                 16 engineers, 2 squads (Pluto & Jupyter)
-                 Sports video platform — NFL, NBA, NCAA, 200K+ teams
-                 InStat IH Queue integration, AmFb matching, MongoDB → DocumentDB
+2024 - present   Engineering Manager              Hudl, Mumbai (Remote from Vancouver)
+                 16 engineers across Pluto and Jupyter squads
+                 Built global sports platform for NFL, NBA, NCAA (200K+ teams)
+                 InStat Ice Hockey Queue integration, AmFb cost reduction initiative
 
-2020 - 2024      Staff / Lead Software Engineer   RBC Global Asset Management, Vancouver
+2020 - 2024      Staff & Lead Software Engineer    RBC Global Asset Management, Vancouver
                  $600B+ AUM platform, 25+ apps migrated to Azure
-                 First hire on cloud mandate → scaled to 4 delivery squads
-                 Leadership Model Award 2023, Individual Quarterly Award 2022
+                 Started as first hire on cloud mandate, scaled to 4 delivery teams
+                 Leadership Model Award (2023), Individual Quarterly Award (2022)
 
-2024             Head of Engineering           Third Bridge Group, Mumbai (contract)
-                 Built India engineering division 0 → 30 engineers in 6 months
+2024             Head of Engineering              Third Bridge Group, Mumbai (contract)
+                 Built India engineering org from 0 to 30 engineers in 6 months
 
-2023             Senior Staff Engineer         Wati.io, Hong Kong (contract)
-                 Multi-tenant SaaS for WhatsApp Business, 16,000+ businesses
+2023             Senior Staff Engineer            Wati.io, Hong Kong (contract)
+                 Multi-tenant WhatsApp Business SaaS for 16,000+ businesses
 
-2018 - 2020      Software Developer            LGM Financial Services, Vancouver
-2016 - 2018      Software Developer            Progressa, Vancouver
-2012 - 2015      Software Engineer             GE Oil & Gas / Baker Hughes, Mumbai
+2018 - 2020      Software Developer               LGM Financial Services, Vancouver
+2016 - 2018      Software Developer               Progressa, Vancouver
+2012 - 2015      Software Engineer                GE Oil & Gas / Baker Hughes, Mumbai
 ```
 
 ---
@@ -132,7 +133,7 @@ I write practical, no-fluff content for senior engineers and engineering manager
 
 ## Certifications
 
-- Claude Code in Action — Anthropic (2026)
-- AI Coding Agents with GitHub Copilot and Cursor — LinkedIn Learning (2024)
-- Software Architecture: From Developer to Architect — LinkedIn Learning (2024)
+- Claude Code in Action, Anthropic (2026)
+- AI Coding Agents with GitHub Copilot and Cursor, LinkedIn Learning (2024)
+- Software Architecture: From Developer to Architect, LinkedIn Learning (2024)
 - AWS Solutions Architect (in progress)
