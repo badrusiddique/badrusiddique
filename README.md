@@ -52,6 +52,10 @@ I write practical, no-fluff content for senior engineers and engineering manager
 **System Design**
 - [What a Taco Shop Taught Me About System Design](https://medium.com/@badru-siddique): 30 concepts, one taco shop, zero jargon
 
+**RAG & Text Splitting**
+- [I Blamed the Model. It Was the Chunking.](https://medium.com/@badru-siddique/i-blamed-the-model-it-was-the-chunking-86af5920dbf2): CharacterTextSplitter, RecursiveCharacterTextSplitter, SemanticChunker — with real terminal output
+- [I Was Learning Text Splitting and Ended Up Building a Tool](https://medium.com/@badru-siddique/i-was-learning-text-splitting-and-ended-up-building-a-tool-d937cdeb4e58): how chunk-lens was born
+
 **AI & LLMs**
 - [Building an Assistant with GPT: From Theory to Practice](https://medium.com/@badru-siddique)
 - [Mastering Prompt Engineering: A Developer's Guide](https://medium.com/@badru-siddique)
