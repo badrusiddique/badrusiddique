@@ -24,6 +24,7 @@ I believe in clean architecture, observable systems, and engineering teams that 
 |---------|-----------|-------|
 | [enggenie](https://github.com/badrusiddique/enggenie-skill) | Multi-agent SDLC skill suite for coding agents: refine, design, plan, build, review, QA, ship | Claude Code, Cursor, Copilot |
 | [morning-coffee](https://github.com/badrusiddique/morning-coffee) | AI dashboard that auto-generates daily team health from Jira and GitHub | LLM, Jira API, GitHub API |
+| [chunk-lens](https://github.com/badrusiddique/chunk-lens) | Text chunking strategy visualiser for RAG pipelines — accurate character stats, overlap on all 8 strategies, keyboard-accessible canvas | React, TypeScript, Vite |
 | [rag-semantic-search-dotnet](https://github.com/badrusiddique/rag-semantic-search-dotnet) | Production-grade RAG system with PostgreSQL pgvector, Ollama embeddings, and LLM integration | C#, .NET 10, PostgreSQL |
 | [tinyhands](https://github.com/badrusiddique/tinyhands) | Fullscreen keyboard smash toy for my son Ayaan | Next.js, TypeScript, Canvas API |
 | [mock-api-hub](https://github.com/badrusiddique/mock-api-hub) | Open mock API for cricket, sports, and general dev use | JavaScript |
