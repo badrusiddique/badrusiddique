@@ -22,6 +22,7 @@ I believe in clean architecture, observable systems, and engineering teams that 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [ai-enterprise-rag](https://github.com/badrusiddique/ai-enterprise-rag) | Local RAG examples with a practical guide to multi-SDK CI, Dependabot, and open model pull request review | C#, Python, GitHub Actions, Hugging Face |
 | [chunk-lens](https://github.com/badrusiddique/chunk-lens) | Visualise chunk boundaries in RAG pipelines — 8 splitting strategies, overlap on all of them, grapheme-safe boundaries | TypeScript, Vite, Playwright |
 | [rag-semantic-search-dotnet](https://github.com/badrusiddique/rag-semantic-search-dotnet) | RAG pipeline with PostgreSQL pgvector, Ollama embeddings, and streaming generation | C#, .NET 10, PostgreSQL |
 | [ai-semantic-search-dotnet](https://github.com/badrusiddique/ai-semantic-search-dotnet) | Semantic search on Microsoft.Extensions.AI with SIMD-accelerated cosine similarity | C#, .NET 10 |
@@ -34,6 +35,23 @@ I believe in clean architecture, observable systems, and engineering teams that 
 | [webapi-clean-architecture](https://github.com/badrusiddique/webapi-clean-architecture) | Clean architecture reference for .NET Web APIs | C# |
 | [mock-api-hub](https://github.com/badrusiddique/mock-api-hub) | Open mock API for cricket, sports, and general dev use | JavaScript |
 | [tinyhands](https://github.com/badrusiddique/tinyhands) | Fullscreen keyboard smash toy for my son Ayaan | Next.js, TypeScript, Canvas API |
+
+---
+
+## GitHub Actions learning
+
+I documented how I added repository automation to a mixed .NET and Python learning monorepo without turning it into a platform project.
+
+[GitHub Actions and open model code review](https://github.com/badrusiddique/ai-enterprise-rag/blob/main/Docs/github-actions-learning-guide.md) covers:
+
+1. Matrix builds for .NET 9 and .NET 10 projects.
+2. Formatting and Python syntax checks that do not require Ollama or Qdrant.
+3. Grouped Dependabot updates for NuGet, pip, and GitHub Actions.
+4. Pull request review with Qwen through Hugging Face Inference Providers.
+5. Structured model output, validated inline comments, summary comments, and result labels.
+6. Token permissions, untrusted diff handling, and the limits of model review.
+
+The guide includes diagrams, reusable workflow excerpts, [a successful CI run](https://github.com/badrusiddique/ai-enterprise-rag/actions/runs/31886943900), and [the pull request used to verify the review flow](https://github.com/badrusiddique/ai-enterprise-rag/pull/4).
 
 ---
 
